@@ -1,7 +1,7 @@
 # iOS 工程师工作效率汇整
 
 ## 目录
----
+
 * [概述](#概述)
 * [系统](#系统)
 * [工具](#工具)
@@ -11,7 +11,7 @@
 
 <a name="概述"></a>
 ## 概述
----
+
 从事IT工作至今，从工程师至PM的工作经历中，工作的效率成为首要的工作，一个人的效率与平常生活养成有关：
 
 * 阅读速度，有些人快，一分钟千字以上，有些人不及。
@@ -28,17 +28,18 @@
 
 <a name="系统"></a>
 ## 系统
----
+
 * 系统：
 	* 系统快速键：由于过于基本所以不再此提及。
 	* location设置：
 		* 带著电脑到处跑的同学可以用location的方式快速切换网络连线。
+		
 		<img src="images/locations.png" width="300px" alt="" /> 
 	* [snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)：小提示，不要与常用的软件快速键冲突。
 
 <a name="工具"></a>
 ## 工具
----
+
 * safari
 	* 快速键(版本的关系会有些差异，所以找到自己的系统的快速键)
 	
@@ -93,7 +94,7 @@
 	* 插件
 		1. [VVDocumente](https://github.com/onevcat/VVDocumenter-Xcode)：備註
 		2. [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode)：图片
-		3. [JDPluginManager](下載：https://github.com/jaydee3/JDPluginManager)：管理 XCode Plug in
+		3. [JDPluginManager](https://github.com/jaydee3/JDPluginManager)：管理 XCode Plug in
 		4. [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)：switch case 自动生成。
 		5. [XcodeBoost](https://github.com/fortinmike/XcodeBoost)：可以通过在.m文件中拷贝方法，粘贴进.h文件的时候就可以得到自动格式成的方法声明
 		 
@@ -117,15 +118,15 @@
 	
 
 * mail
-	*  建立group通讯录		
-	*  建立常用字句
-		<img src="images/keyboardquickly.png" width="400px" alt="" /> 
+	* 建立group通讯录		
+	* 建立常用字句
+		![](images/keyboardquickly.png) 
 	*  建立mail模版
-		<img src="images/mailform.png" width="400px" alt="" /> 	
+		![](images/mailform.png) 	
 	
 <a name="其他"></a>
 ## 其他
----
+
 * 环境
 	* 「勿扰模式」，规定时间内不受打扰，完整处理时间。(在Asana，星期三没有任何会议的。)。
 	* 「讨论时间」，每天早上会议，会议内容主要「昨日完成、今日预计完成、问题讨论」。
@@ -136,7 +137,7 @@
 
 <a name="总结"></a>
 ## 总结
----
+
 
 效率的提升，主要为快速键、command line，要减少持滑鼠的次数，以减少手部移动的时间。道理如「[当幸福来敲门](http://www.imdb.com/title/tt0454921/)」主角，为了提升效率，上班减少喝水为的只是减少上厕所的次数；打电话给客户，话筒不挂上，当然不用作的如此夸张。如「[神奇眼脑直映快速法](https://www.amazon.cn/神奇的眼脑直映快读法-胡雅茹/dp/B00KAT0P7O/ref=pd_cp_351_3?ie=UTF8&psc=1&refRID=46BA06SNMT7V4DAF2R1D)」，训练眼球的阅读速度，不移动头部以增加速率。
 基本上上班除了敲键盘与少量的动动滑鼠，可以达到最好的效能。
@@ -146,7 +147,7 @@
 
 <a name="参考"></a>
 ## 参考
----
+
 * [提高mac开发效率](https://bestswifter.com/efficient-mac/#more)
 * [来自不同行业的一些高效开发技巧](http://www.cocoachina.com/cms/wap.php?action=article&id=16836)
 * [让您的Xcode键字如飞](http://www.cocoachina.com/cms/wap.php?action=article&id=16989)
