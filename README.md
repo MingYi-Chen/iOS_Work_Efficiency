@@ -115,8 +115,22 @@
 	* [mou/macdown](http://www.jianshu.com/p/6c157af09e84)
 	* [常用格式符号](http://daringfireball.net/projects/markdown/syntax)
 	* [csv快速转md的table格式](https://donatstudios.com/CsvToMarkdownTable)
-	* [Tables Generator
-](http://www.tablesgenerator.com)
+	* [Tables Generator](http://www.tablesgenerator.com)
+	* 快速产生目录结构 tree ：
+		1. 首先安装 [homebrew](http://brew.sh)
+		2. 命令行 brew install tree
+		3. 命令行 tree，该目录结构一目了然。
+		
+		~~~
+		├── README.md
+		├── images
+		│   ├── code.png
+		│   ├── keyboardquickly.png
+		│   ├── locations.png
+		│   ├── mailform.png
+		│   └── tree.png
+		└── mindmap.mm	
+		~~~
 	
 
 * **mail**
@@ -169,3 +183,4 @@
 * [30分钟Git命令入门到放弃](http://www.codeceo.com/article/git-30-miniute.html)
 * [10步成为专业iOS开发者——从零起步](http://www.cocoachina.com/ios/20150617/12165.html)
 * [Mac下提升工作效率的方式](http://www.codeceo.com/article/improve-effective-in-mac.html)
+* [写给iOS程序员的命令行使用秘籍](http://www.codeceo.com/article/ios-programmer-command.html)
