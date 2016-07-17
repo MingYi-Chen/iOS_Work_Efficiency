@@ -9,6 +9,8 @@
 * [总结](#总结)
 * [参考](#参考)
 
+![](images/tree.png)  
+
 <a name="概述"></a>
 ## 概述
 
@@ -34,7 +36,7 @@
 	* 带著电脑到处跑的同学可以用location的方式快速切换网络连线。
 	
 	<img src="images/locations.png" width="300px" alt="" /> 
-* [snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)：小提示，不要与常用的软件快速键冲突。
+* [snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)：主要快速切换Mac的app；小提示，不要与常用的软件快速键冲突。
 
 <a name="工具"></a>
 ## 工具
@@ -42,8 +44,9 @@
 * **safari**
 	* 快速键(版本的关系会有些差异，所以找到自己的系统的快速键)
 	
-	| 下一个标签页              | Control+Tab       | 
+	| 快捷键                                 | 功能                         | 
 	|---------------------|---------
+	| 下一个标签页              | Control+Tab       |
 	| 下一个标签页              | Control+Shift+右       | 
 	| 上一个标签页              | Control+Shift+左 | 
 	| 显示阅读列表              | Command+Shift+L   | 
