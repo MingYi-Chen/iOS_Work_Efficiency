@@ -51,7 +51,7 @@
 	| 上一个标签页              | Control+Shift+左 | 
 	| 显示阅读列表              | Command+Shift+L   | 
 	| 当前页面加入到Reading List | Command-Shift-D   |
-	| 在阅读器中阅读             | 加入自选     | command+D| Command+Shift+R   |
+	| 在阅读器中阅读 加入自选     	| command+D   |
 	| 向下滚动一屏              | 空格                |
 	| 向上滚动一屏              | Shift+空格          |
 	| Shift + urlLink     | add reading list  |
