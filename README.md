@@ -37,6 +37,7 @@
 	
 	<img src="images/locations.png" width="300px" alt="" /> 
 * [snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)：主要快速切换Mac的app；小提示，不要与常用的软件快速键冲突。
+*  ^ + ⌘ + F ：全屏幕
 
 <a name="工具"></a>
 ## 工具
@@ -61,9 +62,25 @@
 		* [JSON Formatter](https://github.com/rfletcher/safari-json-formatter)
 		* [keySearch](http://www.macosxtips.co.uk/keysearch/)
 		* [evernote](https://www.yinxiang.com/webclipper/?downloaded)
+
+* **Finder**
+	* 快速键		
+	
+		| 快捷键                           | 功能                       | 
+		|-------------------------------|--------------------------------------| 
+		| Shift-Command-D               | Open the desktop folder. | 
+		| Option-Command-L              | Open the Downloads folder.| 
+		| Shift-Command-O               | Open the Documents folder.| 
+		| Option-Command-V              | Move: Move the files in the Clipboard from <br/> their original location to the current location.| 
+		| Command-Y                     | Use Quick Look to preview the files.                                                        | 
+		| Shift-Command-Delete          | Empty the Trash.         | 
+		| Shift-Command-N               | Create a new folder.     | 
+		| Option-Command-N              | Create a new Smart Folder.| 
+
+
 		
 * **XCode**：
-	* **快速键**
+	* **快速键**	
 	
 	| 快捷键                                 | 功能                         | 
 	|-------------------------------------|----------------------------| 
@@ -184,3 +201,4 @@
 * [10步成为专业iOS开发者——从零起步](http://www.cocoachina.com/ios/20150617/12165.html)
 * [Mac下提升工作效率的方式](http://www.codeceo.com/article/improve-effective-in-mac.html)
 * [写给iOS程序员的命令行使用秘籍](http://www.codeceo.com/article/ios-programmer-command.html)
+* [](https://support.apple.com/en-us/HT201236)
